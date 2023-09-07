@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes-tutorial-app</string>
+    <string name="add_note_desc">for adding notes</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="date">Date</string>
+</resources>
